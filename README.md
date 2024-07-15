@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Namrata
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning SQL, Python, ERD
+- 🌱 I’m currently learning SQL, Python, ERD, Power BI, Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ndasgupta9@gmail.com
 - 😄 Pronouns: She
